@@ -1,3 +1,4 @@
+//Ejercicio 1
 import React from 'react';
 
 class Tabla extends React.Component {
@@ -11,7 +12,6 @@ class Tabla extends React.Component {
         </tr>
       );
     }
-
     return (
       <div>
         <table>
@@ -19,7 +19,7 @@ class Tabla extends React.Component {
             <tr>
               <th>Numero</th>
             <tr>
-                <th>Cuadrado</th>
+              <th>Cuadrado</th>
             </tr>
             </tr>
           </thead>
@@ -31,5 +31,5 @@ class Tabla extends React.Component {
     );
   }
 }
-
 export default Tabla;
+//Ejercicio 2 
