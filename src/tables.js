@@ -18,9 +18,9 @@ class Tabla extends React.Component {
           <thead>
             <tr>
               <th>Numero</th>
-            <tr>
+              <tr>
               <th>Cuadrado</th>
-            </tr>
+              </tr>
             </tr>
           </thead>
           <tbody>
